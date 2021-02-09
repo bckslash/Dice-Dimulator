@@ -1,1 +1,1 @@
-Dice Dimulator
+Dice Simulator
